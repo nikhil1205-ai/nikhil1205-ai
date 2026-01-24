@@ -14,6 +14,8 @@ My journey into technology started early during my school years, where curiosity
 
 I enjoy solving problems, learning new technologies, and working on projects that combine **software engineering, data-driven intelligence, and real-time systems**.
 
+[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?username=nikhil1205-ai&type=repos&limit=10&sort=contributions&transparent=true&t=1769260687488)](https://github.com/amankumarconnect/readme-contribution-stats)
+
 ---
 
 ##  Technical Skills
