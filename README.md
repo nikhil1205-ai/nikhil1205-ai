@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Nikhil Dangi
 
-🎓 Integrated M.Tech Cyber Security student at **Vellore Institute of Technology (VIT)**  
-💻 Aspiring **Software Developer** & **Data Science / AI Enthusiast**  
-🚀 Passionate about building real-world applications and intelligent systems
+Integrated M.Tech Cyber Security student at **Vellore Institute of Technology (VIT)**  
+Aspiring **Software Developer** & **Data Science / AI Enthusiast**  
+Passionate about building real-world applications and intelligent systems
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am **Nikhil Dangi**, an Integrated M.Tech student in **Cyber Security** at VIT with strong hands-on experience in **Software Development, Data Science, Machine Learning, Deep Learning, and AI**.
 
@@ -16,27 +16,27 @@ I enjoy solving problems, learning new technologies, and working on projects tha
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
-### 💻 Programming Languages
+###  Programming Languages
 - Python, Java, JavaScript, C, C++
 
-### 🌐 Software & Web Development
+###  Software & Web Development
 - HTML, CSS, JavaScript  
 - React, Redux  
 - Node.js, Express.js, REST APIs  
 - Bootstrap, Tailwind CSS  
 
-### 📊 Data Science & AI
+###  Data Science & AI
 - Machine Learning, Deep Learning, NLP  
 - Pandas, NumPy, Matplotlib, Seaborn  
 - Scikit-learn, TensorFlow, Keras, PyTorch  
 - RNN, LSTM, Transformers, Generative AI  
 
-### 🗄️ Databases
+###  Databases
 - MySQL, MongoDB  
 
-### 🧰 Tools & Technologies
+###  Tools & Technologies
 - Git, GitHub  
 - Linux, Terminal  
 - Jupyter Notebook, Google Colab  
@@ -44,7 +44,7 @@ I enjoy solving problems, learning new technologies, and working on projects tha
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🔹 VideoConnect – Real-Time Video Conferencing Application
 - Built a real-time video conferencing platform with **video, audio, screen sharing, and live chat**.
@@ -70,7 +70,7 @@ I enjoy solving problems, learning new technologies, and working on projects tha
 
 ---
 
-## 🏆 Experience
+##  Experience
 
 - **Open Source Contributor – ACWOC (Android Club Winter of Code)**  
 - **Hackathon Participant – Solvit Hackathon (Offline)**  
@@ -79,14 +79,14 @@ I enjoy solving problems, learning new technologies, and working on projects tha
 
 ---
 
-## 📚 Education
+##  Education
 
-🎓 **Integrated M.Tech in Cyber Security (Pursuing)**  
+ **Integrated M.Tech in Cyber Security (Pursuing)**  
 **Vellore Institute of Technology (VIT)**
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Advanced Software Engineering Concepts  
 - Scalable System Design  
 - AI & Generative AI  
@@ -94,13 +94,13 @@ I enjoy solving problems, learning new technologies, and working on projects tha
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 📧 Email: **nikhildangi1205@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/nikhil-dangi-aa6b64329  
-- 🐙 GitHub: https://github.com/nikhil1205-ai  
-- 📸 Instagram: https://www.instagram.com/nikhildangi_official/
+-  Email: **nikhildangi1205@gmail.com**  
+-  LinkedIn: https://www.linkedin.com/in/nikhil-dangi-aa6b64329  
+-  GitHub: https://github.com/nikhil1205-ai  
+-  Instagram: https://www.instagram.com/nikhildangi_official/
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me. Always open to learning, collaboration, and new opportunities!*
+ *Feel free to explore my repositories and connect with me. Always open to learning, collaboration, and new opportunities!*
