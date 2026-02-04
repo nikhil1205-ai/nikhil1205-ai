@@ -79,7 +79,6 @@ I enjoy solving problems, learning new technologies, and working on projects tha
 - Developed a full-stack web application with modern frontend and backend technologies.
 
 ---
-
 ##  Experience
 
 - **Open Source Contributor – ACWOC (Android Club Winter of Code)**  
