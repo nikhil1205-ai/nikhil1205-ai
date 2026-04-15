@@ -1,115 +1,66 @@
-#  Hi, I'm Nikhil Dangi
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Nikhil%20Dangi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20DATA%20SCIENTIST%20%2B%20FULL-STACK%20DEVELOPER&descSize=18&descAlignY=55&textBg=false"/>
 
-Integrated M.Tech Cyber Security student at **Vellore Institute of Technology (VIT)**  
-Aspiring **Software Developer** & **Data Science / AI Enthusiast**  
-Passionate about building real-world applications and intelligent systems
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=nikhil1205-ai">
+    <img src="https://komarev.com/ghpvc/?username=nikhil1205-ai&label=Profile%20views&color=00FFFF&style=flat-square" alt="nikhil1205-ai's profile views" />
+  </a>
+</p>
 
----
-
-##  About Me
-
-I am **Nikhil Dangi**, an Integrated M.Tech student in **Cyber Security** at VIT with strong hands-on experience in **Software Development, Data Science, Machine Learning, Deep Learning, and AI**.
-
-My journey into technology started early during my school years, where curiosity about Artificial Intelligence led me to explore Data Science and programming through self-learning. Over time, I expanded my skills through **projects, hackathons, open-source contributions, and freelance work**, focusing on building scalable and practical solutions.
-
-I enjoy solving problems, learning new technologies, and working on projects that combine **software engineering, data-driven intelligence, and real-time systems**.
+## 📌 About Me
+- I am Nikhil Dangi, an Integrated M.Tech student in Cyber Security at VIT with strong hands-on experience in Software Development, Data Science, Machine Learning, Deep Learning, and AI.
+- I enjoy solving problems, learning new technologies, and working on projects that combine software engineering, data-driven intelligence, and real-time systems
 
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nikhil1205-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nikhil1205-ai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil1205-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🧠 My Focus Areas
+- Web Development
+- Data Science & AI
+- Cyber security
+- programing
 
-[![](https://visitcount.itsvg.in/api?id=nikhil1205-ai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/nikhil1205-ai">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikhil1205-ai&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="nikhil1205-ai's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=nikhil1205-ai&theme=dracula&hide_border=true&cache_seconds=86400" alt="nikhil1205-ai's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=nikhil1205-ai&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nikhil Dangi's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil1205-ai&theme=dracula&radius=10" alt="nikhil1205-ai's Activity Graph" />
+</p>
 
----
 
-##  Technical Skills
+## 🛠️ Languages & Tools
 
-###  Programming Languages
-- Python, Java, JavaScript, C, C++
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
 
-###  Software & Web Development
-- HTML, CSS, JavaScript  
-- React, Redux  
-- Node.js, Express.js, REST APIs  
-- Bootstrap, Tailwind CSS  
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
 
-###  Data Science & AI
-- Machine Learning, Deep Learning, NLP  
-- Pandas, NumPy, Matplotlib, Seaborn  
-- Scikit-learn, TensorFlow, Keras, PyTorch  
-- RNN, LSTM, Transformers, Generative AI  
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="48" height="48" style="margin: 4px;" /></p>
 
-###  Databases
-- MySQL, MongoDB  
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
 
-###  Tools & Technologies
-- Git, GitHub  
-- Linux, Terminal  
-- Jupyter Notebook, Google Colab  
-- VS Code, Postman  
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /></p>
 
----
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
-##  Projects
+<p align="center">
+  <a href="https://github.com/nikhil1205-ai">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhil1205-ai&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-### 🔹 VideoConnect – Real-Time Video Conferencing Application
-- Built a real-time video conferencing platform with **video, audio, screen sharing, and live chat**.
-- Used **WebRTC** for peer-to-peer media streaming and **Socket.IO** for signaling and real-time communication.
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/nikhil-dangi-aa6b64329" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:nikhildangi1205@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://my-portfolio-sable-omega-98.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-### 🔹 TRACE-HUNTER – Malware & Network Detection System
-- Developed a machine learning-based system to detect malicious files, URLs, and images.
-- Focused on improving detection accuracy and reducing false positives.
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-### 🔹 Heart Disease Prediction Using ECG
-- Built a machine learning model to classify ECG signals for myocardial infarction and abnormal heart conditions.
-- Applied signal preprocessing and supervised learning techniques.
-
-### 🔹 WhatsApp Chat Analyzer
-- Created a data analysis tool to extract insights such as user activity and message trends from chat data.
-- Used Python libraries for data preprocessing and visualization.
-
-### 🔹 Body Pose Detection
-- Implemented an AI-based system to analyze human body poses using computer vision techniques.
-
-### 🔹 WanderLust
-- Developed a full-stack web application with modern frontend and backend technologies.
-
----
-##  Experience
-
-- **Open Source Contributor – ACWOC (Android Club Winter of Code)**  
-- **Hackathon Participant – Solvit Hackathon (Offline)**  
-- **Freelance Developer (Web Development & ML)**  
-- **College Club Technical Contributor**
-
----
-
-##  Education
-
- **Integrated M.Tech in Cyber Security (Pursuing)**  
-**Vellore Institute of Technology (VIT)**
-
----
-
-##  Currently Learning
-- Advanced Software Engineering Concepts  
-- Scalable System Design  
-- AI & Generative AI  
-- Real-time and distributed systems  
-
----
-
-##  Connect With Me
-
--  Email: **nikhildangi1205@gmail.com**  
--  LinkedIn: https://www.linkedin.com/in/nikhil-dangi-aa6b64329  
--  GitHub: https://github.com/nikhil1205-ai  
--  Instagram: https://www.instagram.com/nikhildangi_official/
-
----
-
- *Feel free to explore my repositories and connect with me. Always open to learning, collaboration, and new opportunities!*
