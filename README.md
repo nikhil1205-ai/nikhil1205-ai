@@ -15,7 +15,7 @@
 - Web Development
 - Data Science & AI
 - Cyber security
-- programing
+- programer
 
 
 ## 📊 GitHub Stats & Trophies
