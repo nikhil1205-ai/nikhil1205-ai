@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nikhil Dangi
+#  Hi, I'm Nikhil Dangi
 
 Integrated M.Tech Cyber Security student at **Vellore Institute of Technology (VIT)**  
 Aspiring **Software Developer** & **Data Science / AI Enthusiast**  
@@ -15,7 +15,7 @@ My journey into technology started early during my school years, where curiosity
 I enjoy solving problems, learning new technologies, and working on projects that combine **software engineering, data-driven intelligence, and real-time systems**.
 
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nikhil1205-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nikhil1205-ai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil1205-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
